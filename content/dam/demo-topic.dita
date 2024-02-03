@@ -4,6 +4,8 @@
   <title>demo topic</title>
   <shortdesc></shortdesc>
   <body>
-    <p></p>
+    <p><image href="danger.jpg">
+      </image></p>
+    <p>0</p>
   </body>
 </topic>

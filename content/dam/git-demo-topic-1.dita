@@ -4,7 +4,7 @@
   <title>Git Demo topic 1</title>
   <shortdesc></shortdesc>
   <body>
-    <p>This a sample Content</p>
+    <p></p>
     <p>This is an image below</p>
     <p><image href="danger.jpg">
       </image></p>

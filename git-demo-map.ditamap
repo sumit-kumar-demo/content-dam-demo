@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
+<map id="_6c3b00b5-62a8-45d6-8c30-aea29d316a21">
+  <title>Git Demo Map</title>
+  <topicref href="git-demo-topic-1.dita" type="topic">
+  </topicref>
+  <topicref href="git-demo-topic-2.dita" type="topic">
+  </topicref>
+  <topicref href="git-demo-topic-3.dita" type="topic">
+  </topicref>
+  <topicref href="git-demo-topic-4.dita" type="topic">
+  </topicref>
+</map>

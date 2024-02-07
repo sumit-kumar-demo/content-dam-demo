@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
 <topic id="_b39f469b-598c-49ba-9e1a-b8e9e632db76">
   <title>Git Demo Topic 2</title>
-  <shortdesc>This is another topic</shortdesc>
+  <shortdesc>This is another topic some more changes</shortdesc>
   <body>
     <p>Another image</p>
     <p><image href="imagemap.jpg" id="image_2">
